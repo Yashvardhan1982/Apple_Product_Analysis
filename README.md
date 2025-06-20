@@ -19,7 +19,7 @@ Analyzed relationships between price, discounts, ratings, and reviews.
 
 Determined least and most expensive iPhones.
 
-📈 Data Visualization: Created plots using Matplotlib/Seaborn to visualize:
+📈 Data Visualization: Created plots using plotly to visualize:
 
 Rating and review distribution.
 
